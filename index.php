@@ -1,4 +1,4 @@
  <?php 
- echo "This is VERSION 1 <br><br>";
+ echo "This is VERSION 2 <br><br>";
  echo "My Pod IP is : ".$_SERVER['SERVER_ADDR'] ;
  ?>
